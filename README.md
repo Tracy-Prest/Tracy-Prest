@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tracy-Prest
 - 👀 I’m interested in modeling systems for data-driven decision-making, control systems, and sustainable engineering solutions.
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning Fundamentals to enhance my ability to model systems and optimize decision-making through data analysis.
+- 🌱 I am currently learning Artificial Intelligence and Machine Learning fundamentals to optimize processes, improve energy efficiency, 
+      and drive automation in engineering and tech operations.
 - 💞️ I’m looking to collaborate on projects involving the optimization of engineering processes.
 - 📫 How to reach me: www.linkedin.com/in/tracy-prest-767aa6306
 - 😄 Pronouns: She/Her
