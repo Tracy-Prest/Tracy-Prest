@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Tracy-Prest
-- 👀 I’m interested in modeling systems for data-driven decision-making, control systems, and sustainable engineering solutions.
+- 👀 I’m interested in modeling systems for data-driven decision-making, optimizing control systems, and developing sustainable 
+      engineering solutions.
 - 🌱 I am currently learning Artificial Intelligence and Machine Learning fundamentals to optimize processes, improve energy efficiency, 
       and drive automation in engineering and tech operations.
 - 💞️ I’m looking to collaborate on projects involving the optimization of engineering processes.
